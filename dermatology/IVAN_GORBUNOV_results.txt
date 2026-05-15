@@ -1,0 +1,34 @@
+Medila Tıbbi Analizler Laboratuvarı
+100.Yıl Bulvarı 63/4 ANTALYA
+Tel: (0242) 243 26 00 - 243 26 01
+Fax: 243 26 02
+
+================================================
+HASTA BİLGİLERİ / PATIENT INFORMATION
+================================================
+Hasta Adı, Soyadı     : IVAN GORBUNOV
+Doğum Tarihi / Cinsiyet : 02/09/1998 / Erkek (Male)
+Hasta Geliş Zamanı    : 27/07/2024 08:27
+Numune Kabul Zamanı   : 27/07/2024 08:39
+Sonuçlanma Zamanı     : 27/07/2024 12:26
+Uzm. Onay Zamanı      : 27/07/2024 12:35
+
+================================================
+TEST SONUÇLARI / TEST RESULTS
+================================================
+TEST                           SONUÇ    NORMAL DEĞER
+--------------------------------------------------
+AÇLIK KAN ŞEKERİ               92       70 - 100 mg/dL
+KREATİNİN                      0.80     < 1.50 mg/dL
+KOLESTEROL (Total)             188.0    < 200.0 mg/dL
+HDL KOLESTEROL                 40.0     > 35.0 mg/dL
+LDL-KOLESTEROL (direkt ölçüm)  129.0    < 130.0 mg/dL
+AST (SGOT)                     24       < 37 U/L
+ALT (SGPT)                     22       < 42 U/L
+GAMA GT                        26       < 35 U/L
+ALKALEN FOSFATAZ (ALP)         103      36 - 120 U/L
+TOTAL BİLİRUBİN                0.70     < 1.2 mg/dL
+
+================================================
+SAYGILARIMIZLA / WITH REGARDS
+================================================
