@@ -38,6 +38,16 @@ Patient presents with depressive disorder (documented, under treatment) with a n
 
 ---
 
+## Hypothesis — Wellbutrin & Anxiety-Driven Body Control
+
+Patient notes anxiety increased on Wellbutrin. Consistent with the medication's norepinephrine-heavy profile — activating, which restored energy and motivation, but potentially tipping into hypervigilance.
+
+Working hypothesis: the calorie/macro tracking attempt in May 2026 was not primarily weight-motivated — it was **anxiety seeking a control object**. Food restriction as anxiety expression, not dietary strategy. Supported by the rapid mood crash (restriction removed the illusion of control, leaving raw anxiety) and the relief felt immediately after abandoning it.
+
+Worth monitoring: whether anxiety-driven control attempts shift to other domains (sleep tracking, body checking, other health metrics).
+
+---
+
 ## Areas of Ongoing Concern
 
 - **ADHD evaluation pending** — deferred pending mood stabilization; warrants follow-up
