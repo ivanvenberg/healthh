@@ -111,6 +111,7 @@ health-records/
 
 | Year | Finding | Significance |
 |------|---------|--------------|
+| School years | **VSD diagnosis** (вегетososудистая дистония) | Common Soviet-era label; no docs retained; relevant given 2015 hypertension |
 | 2009 | **Cardiology consultation referral** | Noted at age 10 — significant given 2015 hypertension |
 | 2009–2010 | Flat feet grade 1 (bilateral) | Chronic, mild |
 | 2009–2010 | Postural disturbance / scoliosis I° | Chronic, mild; resolved or stable |
