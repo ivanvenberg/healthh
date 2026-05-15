@@ -80,7 +80,7 @@ health-records/
 
 ### Key Findings
 - Weight gain likely multifactorial: changed food preferences (toward fatty foods) on antidepressants + low daily activity + psychological stress
-- High milk consumption (1–2 L/day)
+- Milk consumption: previously 1–2 L/day; reduced to ~0.5 L/day (May 2026)
 - Caloric restriction not viable while mood is still stabilizing — neurological stressor
 - Priority: mood stability first, weight second
 - Current approach: gym 3×/week, no active restriction
