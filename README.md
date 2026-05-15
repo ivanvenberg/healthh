@@ -11,7 +11,8 @@ health-records/
 │   ├── scans/           # Original scanned PDFs
 │   └── *.md             # Structured extracted data
 ├── covid-testing/       # COVID-19 PCR tests
-└── dietology/           # Weight management & nutrition consultations
+├── dietology/           # Weight management & nutrition consultations
+└── dentistry/           # Dental checkups
 ```
 
 ## Psychiatry
