@@ -11,9 +11,12 @@ health-records/
 │   ├── scans/           # Original scanned PDFs
 │   └── *.md             # Structured extracted data
 ├── covid-testing/       # COVID-19 PCR tests
-├── dietology/           # Weight management & nutrition consultations
-└── dentistry/           # Dental checkups
+├── dermatology/         # Dermatology records (Roaccutane course)
+├── dentistry/           # Dental checkups
+└── dietology/           # Weight management & nutrition consultations
 ```
+
+---
 
 ## Psychiatry
 
@@ -47,7 +50,7 @@ health-records/
 - High sensitivity to SSRIs (sertraline, escitalopram) even at low doses
 - Roaccutane use until early 2025
 - Weight: 190 cm / 98 kg (+11 kg since starting antidepressants)
-- Ozempic started 27.01.26 (0.25 mg → 0.125 mg → back to 0.25 mg)
+- Ozempic started 27.01.26 — stopped, non-responder (~1% of patients)
 - ADHD symptoms noted — to be evaluated after mood stabilization
 - Smoking cessation planned (pulmonologist: Maxim Kopylov)
 
@@ -66,19 +69,29 @@ health-records/
 
 **Chief issue:** ~20 kg weight gain over 1–1.5 years on antidepressants  
 **Consultation date:** 27 January 2026  
-**Current:** 101 kg / 190 cm (BMI 28.0); goal 80–86 kg
+**Current:** ~98 kg / 190 cm (BMI ~27); goal 80–86 kg
 
-### Treatment Attempted
+### Treatment Log
 
 | Date | Intervention | Outcome |
 |------|-------------|---------|
-| Jan 2026 | **Semaglutide (Ozempic)** prescribed: 0.25→0.5→1.0 mg SC weekly | **Stopped** — non-responder (~1% of patients) |
+| Jan 2026 | Semaglutide (Ozempic) 0.25→0.5→1.0 mg SC weekly | **Stopped** — non-responder (~1% of patients) |
+| May 2026 | Calorie/macro restriction attempt | **Abandoned after 2 days** — caused significant mood crash; body reacts poorly to food restriction in current state |
 
 ### Key Findings
 - Weight gain likely multifactorial: changed food preferences (toward fatty foods) on antidepressants + low daily activity + psychological stress
 - High milk consumption (1–2 L/day)
-- Labs ordered: CBC, glucose, lipid panel, liver/kidney function, TSH, vitamin D/B12, ferritin
-- Desvenlafaxine 150 mg (current psychiatric med) has typical weight gain up to ~6 kg; current gain (~20 kg) exceeds this
+- Caloric restriction not viable while mood is still stabilizing — neurological stressor
+- Priority: mood stability first, weight second
+- Current approach: gym 3×/week, no active restriction
+
+---
+
+## Dermatology
+
+| Period | Treatment | Notes |
+|--------|-----------|-------|
+| ~Aug 2024 – early 2025 | Roaccutane (isotretinoin) 40 mg/day (20+20) | 11-month course; ~1.5 months of gaps. Weight at start: 88 kg |
 
 ---
 
@@ -94,9 +107,7 @@ health-records/
 
 **Source:** Scanned paper documents (ДИСПАНСЕРИЗАЦИЯ_4__А.pdf, 14 pages)
 
-> Note: Page 12 was a Belgrade lease agreement (2025) accidentally included in the scan — not a health document.
-
-### Documents extracted
+### Documents
 
 | File | Date | Contents |
 |------|------|----------|
@@ -108,18 +119,17 @@ health-records/
 | `2010-04_ecg_and_posture_topography.md` | Apr 2010 | ECG (sinus rhythm) + computer spinal topography |
 | `2015_ultrasound_and_bp_monitoring.md` | Apr–Jul 2015, age 16 | Abdominal ultrasound + 24hr BP monitoring |
 
-### Key childhood findings summary
+### Key Childhood Findings
 
 | Year | Finding | Significance |
 |------|---------|--------------|
-| School years | **VSD diagnosis** (вегетososудистая дистония) | Common Soviet-era label; no docs retained; relevant given 2015 hypertension |
-| 2009 | **Cardiology consultation referral** | Noted at age 10 — significant given 2015 hypertension |
+| 2009 | **Cardiology consultation referral** | Age 10 — significant given 2015 hypertension |
 | 2009–2010 | Flat feet grade 1 (bilateral) | Chronic, mild |
 | 2009–2010 | Postural disturbance / scoliosis I° | Chronic, mild; resolved or stable |
 | 2009–2010 | RBC mildly elevated (5.5–6.0 × 10¹²/l) | Recurrent, likely constitutional |
 | 2010 | ECG: sinus rhythm, horizontal axis, HR 88–100 | Normal for age |
 | 2015 | **Bilateral kidney microliths** (up to 1.2 mm) | Follow-up needed |
-| 2015 | **Arterial hypertension** (avg 133/90, max 169/123 mmHg) | Significant — documented at age 16; unclear if followed up |
+| 2015 | **Arterial hypertension** (avg 133/90, max 169/123 mmHg) | Documented at age 16; unclear if followed up |
 
 ---
 
