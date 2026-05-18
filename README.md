@@ -51,17 +51,20 @@ health-records/
 - Roaccutane use until early 2025
 - Weight: 190 cm / 98 kg (+11 kg since starting antidepressants)
 - Ozempic started 27.01.26 — stopped, non-responder (~1% of patients)
-- ADHD symptoms noted — to be evaluated after mood stabilization
+- ADHD symptoms noted; screening score 1880 (add.org, May 2026) — formal evaluation pending; anxiety must reduce first
 - Smoking cessation planned (pulmonologist: Maxim Kopylov)
 
-### Symptom Scores (latest — 01.05.26 context)
+### Symptom Scores
 
-| Scale | Score |
-|-------|-------|
-| HADS | 2 / 11 (Feb 2026) |
-| Beck Depression Inventory | 16 (9 cognitive / 7 somatic) |
-| Burns | 51 |
-| Zung | 55 / 69 |
+| Scale | Score | Date |
+|-------|-------|------|
+| HADS — Anxiety | 14 (clinically expressed) | May 2026 |
+| HADS — Depression | 7 (normal) | May 2026 |
+| HADS (prior) | 2 / 11 | Feb 2026 |
+| Beck Depression Inventory | 16 (9 cognitive / 7 somatic) | early 2026 |
+| Burns | 51 | early 2026 |
+| Zung | 55 / 69 | early 2026 |
+| **ADHD Screening (add.org)** | **1880 — high** | May 2026 |
 
 ---
 
