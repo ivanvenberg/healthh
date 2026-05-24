@@ -203,7 +203,7 @@ Accidental double dosing of Wellbutrin 150 mg + Desvenlafaxine 100 mg (overlap p
 - Anxiety remains high
 - Depression returning
 
-**ADHD symptom assessment** (DSM criteria, discussed with psychiatrist):
+**ADHD, mixed type — officially diagnosed** (DSM criteria):
 
 *Inattentiveness — 8 symptoms present:*
 - Does not pay attention to details / makes careless errors
@@ -226,4 +226,5 @@ Accidental double dosing of Wellbutrin 150 mg + Desvenlafaxine 100 mg (overlap p
 - Wellbutrin 450 mg for one week → assess depression
   - If improved: maintain and continue monitoring
   - If no difference: return to 300 mg, start topiramate from 25 mg
+- **Official diagnosis: ADHD mixed type**
 - Next step: discuss psychostimulants for ADHD correction

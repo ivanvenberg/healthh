@@ -22,7 +22,7 @@ health-records/
 
 **First contact with psychiatry:** June 2025 (no prior psychiatric history)
 
-**Active diagnosis:** Depressive disorder with anxiety component
+**Active diagnoses:** Depressive disorder with anxiety component; **ADHD, mixed type** (diagnosed 22.05.26)
 
 **Current medication (as of 22.05.26):** Wellbutrin (bupropion) 300 mg/day (150 am / 150 pm)  
 **Trial in progress:** Wellbutrin 450 mg (one-week trial per 22.05.26 plan)
@@ -56,7 +56,7 @@ health-records/
 - Roaccutane until early 2025
 - Weight: 190 cm / ~98 kg (+11 kg since starting antidepressants)
 - Ozempic started 27.01.26 — stopped, non-responder (~1% of patients)
-- ADHD symptoms noted since childhood; DSM screening 22.05.26: **inattention 8/9, hyperactivity/impulsivity 5/9** — formal evaluation pending
+- **ADHD mixed type — officially diagnosed 22.05.26** (inattention 8/9, hyperactivity/impulsivity 5/9 on DSM criteria)
 - Topiramate planned as next step if Wellbutrin 450 mg ineffective
 - Stimulants (for ADHD) to be discussed after mood stabilization
 - Smoking cessation planned (pulmonologist: Maxim Kopylov)

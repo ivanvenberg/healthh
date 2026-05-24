@@ -3,7 +3,7 @@
 **Date:** ~19 May 2026  
 **Age:** 27 years  
 **Tool:** add.org Adult ADHD Self-Report Screening Test  
-**Status:** Screening only — not a clinical diagnosis
+**Status:** ~~Screening only~~ → **Official diagnosis: ADHD mixed type (22.05.26)**
 
 ---
 
