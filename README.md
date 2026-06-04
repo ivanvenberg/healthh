@@ -24,8 +24,7 @@ health-records/
 
 **Active diagnoses:** Depressive disorder with anxiety component; **ADHD, mixed type** (diagnosed 22.05.26)
 
-**Current medication (as of 22.05.26):** Wellbutrin (bupropion) 300 mg/day (150 am / 150 pm)  
-**Trial in progress:** Wellbutrin 450 mg (one-week trial per 22.05.26 plan)
+**Current medication (as of 22.05.26):** Wellbutrin (bupropion) 450 mg/day
 
 **Full consultation notes:** [`psychiatry/consultation_notes.md`](psychiatry/consultation_notes.md)
 
@@ -47,7 +46,7 @@ health-records/
 | Apr 2026 | Desvenlafaxine tapered off; Wellbutrin 150→300 mg | Energy returned; gym resumed; job change |
 | 01.05.26 | ⚠️ Accidental double dose (Wellbutrin + Desvenlafaxine overlap) — possible serotonin syndrome; managed with ondansetron 16 mg/day | |
 | May 2026 | Wellbutrin 300 mg split to 150 am / 150 pm | Irritability, anxiety, tearfulness noted |
-| 22.05.26 | Wellbutrin 450 mg trial (1 week) | Depression returning; trial initiated |
+| 22.05.26–present | Wellbutrin 450 mg/day | ADHD diagnosis same day; depression returning; dose escalated to ceiling |
 
 ### Key History Notes
 
