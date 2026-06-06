@@ -228,3 +228,21 @@ Accidental double dosing of Wellbutrin 150 mg + Desvenlafaxine 100 mg (overlap p
   - If no difference: return to 300 mg, start topiramate from 25 mg
 - **Official diagnosis: ADHD mixed type**
 - Next step: discuss psychostimulants for ADHD correction
+---
+
+## 05.06.26 — Session
+
+**Medications:** Wellbutrin (bupropion) 450 mg/day
+
+**Status:** Good antidepressant effect on Wellbutrin 450 mg. However, debilitating excessive anxiety, especially worsening in the evenings after work ends. Alcohol use to fall asleep; using Suprastin (chloropyramine) to sleep.
+
+**Current complaints:**
+- Severe anxiety, predominantly evening
+- Alcohol use as anxiolytic/sleep aid
+- Using Suprastin (antihistamine) for sleep
+
+**Plan:**
+1. Wellbutrin 450 mg — continue
+2. Atarax (hydroxyzine) — try ¼ tablet in the evening; can increase in steps of ½ tablet up to 2 tablets
+3. In two weeks — assess Atarax efficacy for anxiety; discuss reducing Wellbutrin to 300 mg
+4. Continue filling out eMUDS
