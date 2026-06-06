@@ -24,7 +24,7 @@ health-records/
 
 **Active diagnoses:** Depressive disorder with anxiety component; **ADHD, mixed type** (diagnosed 22.05.26)
 
-**Current medication (as of 22.05.26):** Wellbutrin (bupropion) 450 mg/day
+**Current medication (as of 05.06.26):** Wellbutrin (bupropion) 450 mg/day + Atarax (hydroxyzine, titrating)
 
 **Full consultation notes:** [`psychiatry/consultation_notes.md`](psychiatry/consultation_notes.md)
 
@@ -46,7 +46,8 @@ health-records/
 | Apr 2026 | Desvenlafaxine tapered off; Wellbutrin 150→300 mg | Energy returned; gym resumed; job change |
 | 01.05.26 | ⚠️ Accidental double dose (Wellbutrin + Desvenlafaxine overlap) — possible serotonin syndrome; managed with ondansetron 16 mg/day | |
 | May 2026 | Wellbutrin 300 mg split to 150 am / 150 pm | Irritability, anxiety, tearfulness noted |
-| 22.05.26–present | Wellbutrin 450 mg/day | ADHD diagnosis same day; depression returning; dose escalated to ceiling |
+| 22.05.26 | Wellbutrin 450 mg/day | ADHD diagnosis same day; depression returning; dose escalated to ceiling |
+| 05.06.26 | Wellbutrin 450 mg/day + **Atarax (hydroxyzine)** started (¼ tab evening, up to 2 tabs) | Good antidepressant effect; debilitating evening anxiety; alcohol + Suprastin used for sleep → adding Atarax; plan to reassess dose reduction to 300 mg in 2 weeks |
 
 ### Key History Notes
 
